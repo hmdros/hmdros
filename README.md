@@ -8,5 +8,5 @@
     FullStack Developer 👨🏻‍💻
 
 - 🖥️ Ruby on Rails, ReactJS, NodeJS, React Native
-- 🔭 FullStack developer at ***TemporadaLivre***
+- 🔭 FullStack developer
 - 🌱 Learning to live! 
