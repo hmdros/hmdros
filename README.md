@@ -10,4 +10,4 @@
 - 📫 Reach me at: hmdros@gmail.com;
 - 🌱 Studying: Elixir, Cloud Computing;
 
-<img src="/github-metrics.svg" alt="Metrics" width="75%">
+<!-- <img src="/github-metrics.svg" alt="Metrics" width="75%"> -->
