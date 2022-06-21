@@ -7,7 +7,6 @@
 - 🖥️ Ruby on Rails, ReactJS;
 - 🔭  I’m currently working at Ombulabs;
 - 💬 Ask me about anything, glad to help;
-- 📫 Reach me at: hmdros@gmail.com;
 - 🌱 Studying: Elixir, Cloud Computing;
 
 <!-- <img src="/github-metrics.svg" alt="Metrics" width="75%"> -->
