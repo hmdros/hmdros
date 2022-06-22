@@ -4,7 +4,7 @@
 - 🖥️ Ruby on Rails, ReactJS;
 - 🔭  I’m currently working at Ombulabs;
 - 💬 Ask me about anything, glad to help;
-- 🌱 Studying: Elixir, Cloud Computing;
+- 🌱 Studying: Elixir, Cloud Computing, Open Source contributions
 
 <!-- <img src="/github-metrics.svg" alt="Metrics" width="75%"> -->
 
