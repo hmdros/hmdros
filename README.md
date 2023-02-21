@@ -1,10 +1,9 @@
 
 ## Henrique Medeiros 👋
 
-- 🖥️ Ruby on Rails, ReactJS;
-- 🔭  I’m currently working at Ombulabs;
-- 💬 Ask me about anything, glad to help;
-- 🌱 Studying: Elixir, Cloud Computing, Open Source contributions
+- 🖥️ I've been working with Ruby on Rails and have done some work using JavaScript (NodeJS, ReactJS and React Native);
+- 🔭 I’m currently working at [OmbuLabs](https://www.ombulabs.com/);
+- 🌱 Now I'm studying Rails performance improvements, Elixir, Cloud Computing, and trying to reach some Open Source contributions;
 
 <!-- <img src="/github-metrics.svg" alt="Metrics" width="75%"> -->
 
