@@ -3,7 +3,7 @@
 
 - 🖥️ I've been working with Ruby on Rails and have done some work using JavaScript (NodeJS, ReactJS and React Native);
 - 🔭 I’m currently working at [OmbuLabs](https://www.ombulabs.com/);
-- 🌱 Now I'm studying Rails performance improvements, Elixir, Cloud Computing, and trying to reach some Open Source contributions;
+- 🌱 Now I'm studying Rails internal and some performance improvement content, also trying to reach some Open Source contributions in the Rails community;
 
 <!-- <img src="/github-metrics.svg" alt="Metrics" width="75%"> -->
 
@@ -17,6 +17,5 @@
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
