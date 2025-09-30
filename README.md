@@ -1,9 +1,21 @@
 
 ## Henrique Medeiros 👋
 
-- 🖥️ I've been working with Ruby on Rails and have done some work using JavaScript (NodeJS, ReactJS and React Native);
-- 🔭 I’m currently working at [OmbuLabs](https://www.ombulabs.com/);
-- 🌱 Now I'm studying Rails internal and some performance improvement content, also trying to reach some Open Source contributions in the Rails community;
+Hi there! I’m a software engineer passionate about building reliable applications and helping teams modernize their codebases.
+
+🖥️ I work mostly with Ruby on Rails, working on Rails upgrade projects that keep companies’ applications secure, maintainable, and future-proof.
+
+✍️ [I also write technical articles for the FastRuby.io blog](https://www.fastruby.io/blog/authors/hmdros)
+, sharing insights on upgrades, performance, and best practices in the Ruby and Rails ecosystem.
+
+🔭 Currently, I’m part of the[ OmbuLabs
+ team](https://www.ombulabs.com/), where I contribute to consulting projects and open source initiatives in the Rails community.
+
+🌱 I’m studying performance improvements, and exploring how AI tools and Python frameworks can integrate with web development workflows.
+
+⚙️ In the past, I’ve worked with JavaScript (Node.js, React, React Native) and have hands-on experience with Redis, SQL databases, Docker, and Kubernetes.
+
+💡 Always curious about solving real-world problems with clean, maintainable code — and sharing knowledge along the way.
 
 <!-- <img src="/github-metrics.svg" alt="Metrics" width="75%"> -->
 
