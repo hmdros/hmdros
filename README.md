@@ -19,10 +19,6 @@ client where there is one, and the metrics that show how it behaved once it ship
 
 ---
 
-Four of those seven years were spent working inside other teams' codebases at
-[OmbuLabs / FastRuby.io](https://www.ombulabs.com/), which is a quick way to learn what
-makes software cheap or expensive to change.
-
 ### What I've worked on
 
 | | |
